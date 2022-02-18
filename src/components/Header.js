@@ -16,7 +16,7 @@ const styles ={
         fontWeight: '600',
         top:'10%',
     },
-    text1Style:{
+    textStyle:{
         color: 'white',
     },
     spanStyle:{
@@ -38,14 +38,11 @@ const styles ={
 		>
 			<div className="home" id="container" style={styles.homeStyle}>
 				<div className="main" style={styles.mainStyle}>
-					<h2 className="text1" style={styles.text1Style}>
-						Hi, My name is{" "}
-						<span className="span" style={styles.spanStyle}>
-							Maximilian, but i go by Max
-						</span>
+					<h2 className="text" style={styles.textStyle}>
+						Hi, My name is Maximilian, but i go by Max.
 					</h2>
 
-					<h2 className="text1" style={styles.text1Style}>
+					<h2 className="text" style={styles.textStyle}>
 						I am a{" "}
 						<span className="span" style={styles.spanStyle}>
 							Full Stack Web Developer

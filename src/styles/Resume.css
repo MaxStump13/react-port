@@ -1,8 +1,7 @@
-.subcontainer a .btn{
-    padding:11px;
+.smallContainer a .btn{
+    padding:10px;
     background-color: #eaeaea;
     border: 1px solid #c1c1c1;
-    color: brown;
     outline: none;
     transition: .6s ease;
 }
@@ -24,7 +23,7 @@
     cursor:pointer;
     background-color: white;
     color:white;
-    box-shadow: 0 5px #eaeaea, 0 0 10px #eaeaea;
+    box-shadow: 0 5px #eaeaea, 0 0 #eaeaea;
     font-weight: bold;
 }
 
@@ -32,7 +31,7 @@
     display:flex;
 }
 
-.subcontainer{
+.smallContainer{
     display: flex;
     flex-direction: column;
     text-align: justify;
@@ -42,13 +41,7 @@
     color: white;
 }
 
-.subcontainer ul li{
-    list-style-type: circle;
-}
-
-/* tablet style*/
-@media screen and (max-width: 850px){
-    /*About*/
+@media screen and (max-width: 768px){
     .container{
         flex-direction: column;
         align-items: center;
@@ -56,15 +49,13 @@
 
 }
 
-@media screen and (max-width: 532px){
-    /*About*/
-    .subcontainer{
+@media screen and (max-width: 550px){
+    .smallContainer{
         display: flex;
         flex-direction: column;
         text-align: justify;
         padding: 10px;
         width:80%;
         max-width: 100%;
-        /* margin-left:35px; */
     }
 }

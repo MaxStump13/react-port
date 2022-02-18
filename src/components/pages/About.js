@@ -1,23 +1,23 @@
-import React from 'react';
+import React from "react";
 import img from "../assets/profile-picture.png";
-import '../../styles/Aboutme.css';
+import "../../styles/Aboutme.css";
 
-const styles ={
-  aboutStyle: {
-    display: 'flex',
-    flexDirection: 'column',
-    boxSizing: 'border-box',
-    padding: '20px',
-    marginBottom: '50px',
-  },
-}
+const styles = {
+	aboutStyle: {
+		display: "flex",
+		flexDirection: "column",
+		boxSizing: "border-box",
+		padding: "20px",
+		marginBottom: "50px",
+	},
+};
 
 export default function About() {
-  return (
+	return (
 		<section className="container" style={styles.aboutStyle}>
 			<h1 className="headings">About Me</h1>
 			<div className="pic">
-				<img src={img} alt="unavailable"/>
+				<img src={img} alt="profile picture" />
 				<div className="intro">
 					<h2>Max</h2>
 					<p>
@@ -29,14 +29,14 @@ export default function About() {
 						change paths and pursue coding. In November of 2021, I enrolled into
 						a coding bootcamp at the University of Penn. Through this bootcamp,
 						I am learning the skills to become a full-stack web developer. So
-						far in my coding bootcamp, I have learned to apply HTML and CSS to
-						webpages. I have also learned how to deploy my created projects
-						using GitHub. More recently, I have been utilizing JavaScript and
-						some of its libraries and frameworks. With the help of third party
-						APIs, I have been able to develop applications with live data. A few
-						examples are down below in my work section. If you are interested in
-						any of their repositories or deployed sites, click on the image for
-						the links.
+						far in my coding bootcamp, I have learned to apply both front-end
+						and back-end code to webpages. I have also learned how to deploy my
+						created projects using GitHub and heroku. More recently, I have been
+						utilizing JavaScript libraries and frameworks to add addition
+						functionality and improved user expierence. A few examples of my
+						work can be found in the portfolio tab. are down below in my work
+						section. If you are interested in any of their repositories or
+						deployed sites, the links are provided.
 					</p>
 				</div>
 			</div>

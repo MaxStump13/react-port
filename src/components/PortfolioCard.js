@@ -26,10 +26,10 @@ export default function PortfolioCard(props) {
                         <strong><b>Languages:</b></strong> {props.topics}
                     </li>
                     <li>
-                        <a href={props.deploy} target="_blank"><strong>See the Deploy Site</strong></a>
+                        <a href={props.deploy} target="_blank"><strong>Here is the Deployed Site</strong></a>
                     </li>
                     <li>
-                        <a href={props.github} target="_blank"><strong>See the Code</strong></a>
+                        <a href={props.github} target="_blank"><strong>Here is the Repo</strong></a>
                     </li>
 
                 </ul>
