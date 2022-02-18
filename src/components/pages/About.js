@@ -34,9 +34,8 @@ export default function About() {
 						created projects using GitHub and heroku. More recently, I have been
 						utilizing JavaScript libraries and frameworks to add addition
 						functionality and improved user expierence. A few examples of my
-						work can be found in the portfolio tab. are down below in my work
-						section. If you are interested in any of their repositories or
-						deployed sites, the links are provided.
+						work can be found in the portfolio tab. If you are interested in 
+            any of their repositories ordeployed sites, the links are provided.
 					</p>
 				</div>
 			</div>

@@ -19,9 +19,6 @@ Here is the deployed link to my portfolio. [My portfolio](https://maxstump13.git
 ![Contact page](./src/components/assets/contact.png)
 ![Resume page](./src/components/assets/resume.png)
 
-If one of the headers in the navigation is clicked, a scroll animation to that section is triggered. If the Resume header is clicked, another tab is opened to a resume. In the Work section, the images are blurred until hovered over.  At the bottom, my contact information and profiles are listed with active links. 
-
-
 ## Credits
 Here are the sources I used to create my portfolio.
 1. [CSS-tricks](https://css-tricks.com/)

@@ -1,5 +1,4 @@
 import React from "react";
-import img2 from "./assets/cover-image.jpg";
 
 const styles ={
     homeStyle: {
