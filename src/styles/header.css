@@ -1,0 +1,11 @@
+#container::before{
+    content:"";
+    position:absolute;
+    top:0;
+    right:0;
+    background-size: cover;
+    height:900px;
+    width:100%;
+    z-index:-1;
+    opacity: .8;
+}

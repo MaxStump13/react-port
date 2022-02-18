@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Podcast App",
+        "image": "https://raw.githubusercontent.com/MaxStump13/Podcast411/main/public/assets/images/profile.png",
+        "github": "https://github.com/MaxStump13/Podcast411.git",
+        "deploy": "https://pod-ap.herokuapp.com/",
+        "topics": "MySQL, Sessions, JavaScript, Handlebars, Express, Bcrypt, NodeJS"
+    },
+    {
+        "id": 2,
+        "name": "Social Media Image Creator App",
+        "image": "https://raw.githubusercontent.com/MaxStump13/professional-portfolio/main/assets/images/image-creator.png",
+        "github": "https://github.com/MaxStump13/image-creator.git",
+        "deploy": "https://maxstump13.github.io/image-creator/",
+        "topics": "HTML, materializeCSS, JavaScript, JQuery, Interact.js"
+    },
+    {
+        "id": 3,
+        "name": "Text Editor",
+        "image": "https://raw.githubusercontent.com/MaxStump13/textEd/main/images/appView.PNG",
+        "github": "https://github.com/MaxStump13/textEd.git",
+        "deploy": "https://tex-ed.herokuapp.com/",
+        "topics": "NodeJS, MongoDB, JavaScript, Express, WorkBox, IndexedDB, webpack"
+    },
+    {
+        "id": 4,
+        "name": "Day Planner App",
+        "image": "https://raw.githubusercontent.com/MaxStump13/professional-portfolio/main/assets/images/maxstump13.github.io_day-planner_.png",
+        "github": "https://github.com/MaxStump13/day-planner.git",
+        "deploy": "https://maxstump13.github.io/day-planner/",
+        "topics": "HTML, CSS, Javascript, Moment.js"
+    },
+    {
+        "id": 5,
+        "name": "Note Taker App",
+        "image": "https://raw.githubusercontent.com/MaxStump13/note-taker/main/public/assets/images/home.png",
+        "github": "https://github.com/MaxStump13/note-taker.git",
+        "deploy": "https://MaxStump13.github.io/note-taker/",
+        "topics": "HTML, CSS, JavaScript, Express"
+    },
+    {
+        "id": 6,
+        "name": "Weather App",
+        "image": "https://raw.githubusercontent.com/MaxStump13/weather-dashboard/main/assets/images/search.png",
+        "github": "https://github.com/MaxStump13/weather-dashboard.git",
+        "deploy": "https://MaxStump13.github.io/weather-dashboard/",
+        "topics": "HTML, CSS, Bootstrap, Javascript, Jquery"
+    }
+    
+]
