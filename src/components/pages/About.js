@@ -23,19 +23,17 @@ export default function About() {
 					<p>
 						Hello, this is my portfolio of my projects. My name is Maximilian,
 						but I go by Max. I graduated from Penn State with a nuclear
-						engineering degree in 2020. Due to the pandemic, I have struggled
-						finding a career in the nuclear energy field. In my free time, I
-						tried some free coding courses online and loved it. I decided to
-						change paths and pursue coding. In November of 2021, I enrolled into
+						engineering degree in 2020. During the pandemic, I 
+						found my passion in coding. I decided to
+						change paths and pursue a career in web development. In November of 2021, I enrolled into
 						a coding bootcamp at the University of Penn. Through this bootcamp,
-						I am learning the skills to become a full-stack web developer. So
-						far in my coding bootcamp, I have learned to apply both front-end
-						and back-end code to webpages. I have also learned how to deploy my
-						created projects using GitHub and heroku. More recently, I have been
-						utilizing JavaScript libraries and frameworks to add addition
-						functionality and improved user expierence. A few examples of my
+						I learned the skills to become a full-stack web developer, such as JavaScript, Express, Node.js, MySQL, MongoDB, React, and GraphQL.
+						I have learned to apply both front-end
+						and back-end code to webpages. All the applications I have
+						created are deployed using GitHub and heroku. The main goal
+						of my applications is 	functionality and user expierence. A few examples of my
 						work can be found in the portfolio tab. If you are interested in 
-            any of their repositories ordeployed sites, the links are provided.
+            any of their repositories or deployed sites, the links are provided.
 					</p>
 				</div>
 			</div>

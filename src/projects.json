@@ -1,6 +1,14 @@
 [
     {
         "id": 1,
+        "name": "Dungeon Notes Dragons",
+        "image": "https://raw.githubusercontent.com/MaxStump13/dungeons_notes_dragons/main/images/dndHomePageDesk.png",
+        "github": "https://github.com/MaxStump13/dungeons_notes_dragons",
+        "deploy": "https://dnoted.herokuapp.com/",
+        "topics": "Javascript, React, MongoDB, GraphQL, Express, Apollo, MUI"
+    },
+    {
+        "id": 2,
         "name": "Podcast App",
         "image": "https://raw.githubusercontent.com/MaxStump13/Podcast411/main/public/assets/images/profile.png",
         "github": "https://github.com/MaxStump13/Podcast411.git",
@@ -8,7 +16,7 @@
         "topics": "MySQL, Sessions, JavaScript, Handlebars, Express, Bcrypt, NodeJS"
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "Social Media Image Creator App",
         "image": "https://raw.githubusercontent.com/MaxStump13/professional-portfolio/main/assets/images/image-creator.png",
         "github": "https://github.com/MaxStump13/image-creator.git",
@@ -16,21 +24,14 @@
         "topics": "HTML, materializeCSS, JavaScript, JQuery, Interact.js"
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "Text Editor",
         "image": "https://raw.githubusercontent.com/MaxStump13/textEd/main/images/appView.PNG",
         "github": "https://github.com/MaxStump13/textEd.git",
         "deploy": "https://tex-ed.herokuapp.com/",
         "topics": "NodeJS, MongoDB, JavaScript, Express, WorkBox, IndexedDB, webpack"
     },
-    {
-        "id": 4,
-        "name": "Day Planner App",
-        "image": "https://raw.githubusercontent.com/MaxStump13/professional-portfolio/main/assets/images/maxstump13.github.io_day-planner_.png",
-        "github": "https://github.com/MaxStump13/day-planner.git",
-        "deploy": "https://maxstump13.github.io/day-planner/",
-        "topics": "HTML, CSS, Javascript, Moment.js"
-    },
+
     {
         "id": 5,
         "name": "Note Taker App",
