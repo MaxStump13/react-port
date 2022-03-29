@@ -20,7 +20,7 @@ export default function Resume() {
 						<div className="smallContainer">
 							<br></br>
 							<a
-								href={require("../assets/data/MaxStumpWebDevResume.pdf")}
+								href={require("../assets/data/MaximilianStumpResume.pdf")}
 								target="_blank"
 								rel="noreferrer"
 							>
